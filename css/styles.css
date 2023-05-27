@@ -11,8 +11,25 @@
     filter: sepia(100%);
 }
 
+p {
+    font-family: cursive;
+    text-align: center;
+}
+
+
 h1 {
     text-align: center;
     font-family: Bradley Hand, cursive;
-    font-size: medium;
+    font-size: 100PX;
+    padding: 0px;
+    color: rgb(59, 38, 70);
 }
+h2 {
+    font-style: italic;
+    font-family: Snell Roundhand, cursive;
+}
+
+body {
+    background-color: rgb(166, 213, 161);
+}
+
